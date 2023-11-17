@@ -10,13 +10,30 @@ class MeuApp extends StatelessWidget{
     return MaterialApp(
       home:Scaffold(
         appBar: AppBar(
-          title:  Text('Meu app'),
+          title:  Text('Meu primeiro app'),
         ),
-        body: Center(
-          child: Text('Olá mundo'),
-        ),
-      ),
+        body: Container(
+        color: Colors.red,
+        child: Row( // pode ser column 
+          children: [
+            Expanded(
+              child: Text('Guilherme'),
+              ),
+             Expanded(
+              child: Text('Pedroso'),
+              ),
+             Expanded(
+              child: Text('de Lima'),
+              ),
+           
+          ],
+        )
 
+        /*body: Center(
+          child: Text('Olá mundo'),
+        ),*/
+        )        
+      )
     );
     
   } //Center
