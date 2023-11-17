@@ -6,11 +6,19 @@ void main() => runApp( MeuApp());
 class MeuApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
-    return Center(
-    child: Text('Olá Mundo, Flutter',
-    textDirection: TextDirection.ltr,
-      )
-    ); //Text
+    
+    return MaterialApp(
+      home:Scaffold(
+        appBar: AppBar(
+          title:  Text('Meu app'),
+        ),
+        body: Center(
+          child: Text('Olá mundo'),
+        ),
+      ),
+
+    );
+    
   } //Center
 }
 
