@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 //reorganizar código
 
-class LoginPage extends StatefulWidget{
+class LoginPage extends StatefulWidget{ //arrumar arquivo da page de Login
     @override
     _LoginPage createState() _LoginPage();
 }
