@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//reorganizar código
+
 class LoginPage extends StatefulWidget{
     @override
     _LoginPage createState() _LoginPage();
