@@ -31,8 +31,16 @@ class Exemplo extends StatelessWidget{
       width:200,
       height: 200,
       color: Colors.red,
+      child: Column(
+        children: [
+          Text('Exemplo'),
+          ElevatedButton(
+            child: Text('Click Here'),
+            onPressed: botaoAction()
+          )
+        ],
+      )
     );
    }
-   
 
 }
