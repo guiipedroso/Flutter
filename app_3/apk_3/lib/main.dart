@@ -35,6 +35,7 @@ class Exemplo extends StatelessWidget{
       width:200,
       height: 200,
       margin: EdgeInsets.all(10),//espaçamento 
+      padding: EdgeInsets.all(10), //espaçamento interno
       color: Colors.red,
       child: Column(
         children: [
