@@ -11,8 +11,11 @@ class MeuApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Meu Terceiro App'),
         ),
-        body: Center(
-          child:  Exemplo()
+        body: Column(
+          children: <Widget> [
+            Exemplo(),
+            Exemplo()
+          ]  
         ),
       ),
     );
@@ -31,6 +34,7 @@ class Exemplo extends StatelessWidget{
     return Container(
       width:200,
       height: 200,
+      margin: EdgeInsets.all(10),//espaçamento 
       color: Colors.red,
       child: Column(
         children: [
