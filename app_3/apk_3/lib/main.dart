@@ -3,10 +3,6 @@ import 'package:flutter/material.dart';
 void main() => runApp(MeuApp());
 
 class MeuApp extends StatelessWidget {
-
-  botaoAction(){
-    print("Clicou no botão.");
-  }
   
   @override
   Widget build(BuildContext context) {
@@ -24,6 +20,11 @@ class MeuApp extends StatelessWidget {
 }
 
 class Exemplo extends StatelessWidget{
+  
+  botaoAction(){
+    print("Clicou no botão.");
+  }
+   
    @override
    Widget build(BuildContext){
 
