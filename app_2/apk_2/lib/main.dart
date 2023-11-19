@@ -6,9 +6,8 @@ class MeuApp extends StatelessWidget {
 
   botaoAction(){
     print("Clicou no botão.");
-
   }
-
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
