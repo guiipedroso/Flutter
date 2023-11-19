@@ -16,9 +16,23 @@ class MeuApp extends StatelessWidget {
           title: Text('Meu Terceiro App'),
         ),
         body: Center(
-          child:  Text('...')
+          child:  Exemplo()
         ),
       ),
     );
   }
+}
+
+class Exemplo extends StatelessWidget{
+   @override
+   Widget build(BuildContext){
+
+    return Container(
+      width:200,
+      height: 200,
+      color: Colors.red,
+    );
+   }
+   
+
 }
