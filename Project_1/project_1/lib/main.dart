@@ -225,10 +225,8 @@ class FormWidget extends StatelessWidget {
   void _saveFormData(FormData formData) async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
 
-    // Obtém a lista existente de dados salvos
     List<String> savedData = prefs.getStringList('form_data_list') ?? [];
 
-    // Converte os dados do formulário em um mapa e adiciona à lista
     savedData.add(jsonEncode(formData.toMap()));
 
     
@@ -245,14 +243,14 @@ class FormWidget extends StatelessWidget {
           actions: [
             TextButton(
               onPressed: () {
-                Navigator.pop(context); // Fechar o AlertDialog
+                Navigator.pop(context); 
               },
               child: Text("Cancelar"),
             ),
             TextButton(
               onPressed: () {
-                Navigator.pop(context); // Fechar o AlertDialog
-                SystemNavigator.pop(); // Sair da aplicação
+                Navigator.pop(context); 
+                SystemNavigator.pop(); 
               },
               child: Text("Sair"),
             ),
