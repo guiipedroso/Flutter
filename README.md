@@ -82,5 +82,3 @@ app_3/apk_3
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull request. 
 
 ---
-
-Essa documentação fornece uma visão geral do Projeto 1, incluindo suas funcionalidades, o desenvolvimento utilizando Flutter e a integração com o pacote `shared_preferences` ou `prefs` para o armazenamento local dos contatos. Também inclui informações sobre como executar o projeto e como contribuir para ele.
