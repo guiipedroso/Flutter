@@ -1,5 +1,10 @@
 # Project - Contact Manager
 
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DONE&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=flutter&message=framework&color=blue&style=for-the-badge&logo=flutter"/>
+</p>
+
 The Project is a comprehensive contact management solution developed in Flutter, a powerful cross-platform app development framework. This app provides an intuitive and efficient experience for users to organize and maintain their contacts in a simple and accessible way.
 
 #### Highlighted Features:
