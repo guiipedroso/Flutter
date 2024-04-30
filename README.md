@@ -1,84 +1,85 @@
-# Projeto - Gerenciador de Contatos
+# Project - Contact Manager
 
-O Projeto é uma solução completa de gerenciamento de contatos desenvolvida em Flutter, uma poderosa estrutura de desenvolvimento de aplicativos multiplataforma. Este aplicativo oferece uma experiência intuitiva e eficiente para que os usuários possam organizar e manter seus contatos de forma simples e acessível.
+The Project is a comprehensive contact management solution developed in Flutter, a powerful cross-platform app development framework. This app provides an intuitive and efficient experience for users to organize and maintain their contacts in a simple and accessible way.
 
-#### Funcionalidades Destacadas:
+#### Highlighted Features:
 
-1. **Interface Intuitiva:** Uma interface limpa e intuitiva que facilita a navegação e o uso do aplicativo para usuários de todos os níveis de habilidade.
+1. **Intuitive Interface:** A clean and intuitive interface that facilitates navigation and app usage for users of all skill levels.
 
-2. **Autenticação Segura:** Uma tela de login protegida que garante o acesso seguro ao aplicativo, com autenticação de nome de usuário e senha.
+2. **Secure Authentication:** A protected login screen ensuring secure access to the app, with username and password authentication.
 
-3. **Gerenciamento de Contatos:** Uma lista dinâmica de contatos, onde os usuários podem visualizar, adicionar e atualizar informações de contato de forma rápida e conveniente.
+3. **Contact Management:** A dynamic contact list where users can view, add, and update contact information quickly and conveniently.
 
-4. **Cadastro de Novos Contatos:** Um formulário de cadastro intuitivo que permite aos usuários inserir facilmente novos contatos, incluindo nome, telefone e endereço de e-mail.
+4. **New Contact Registration:** An intuitive registration form allowing users to easily input new contacts, including name, phone, and email address.
 
-5. **Alerta de Saída Personalizado:** Um recurso de alerta personalizado que confirma a saída do aplicativo, garantindo que os usuários não percam dados importantes por acidente.
+5. **Custom Exit Alert:** A personalized exit alert feature confirming the app exit, ensuring users do not accidentally lose important data.
 
-#### Desenvolvimento Robusto:
+#### Robust Development:
 
-- **Tecnologia Flutter:** Desenvolvido utilizando o Flutter, o Projeto combina a eficiência do desenvolvimento móvel multiplataforma com uma experiência de usuário nativa.
-  
-- **Armazenamento Local Seguro:** Utilizando o poderoso pacote `shared_preferences` ou `prefs`, o aplicativo garante o armazenamento seguro e local dos contatos, mantendo os dados dos usuários protegidos e acessíveis offline.
+- **Flutter Technology:** Developed using Flutter, the Project combines the efficiency of cross-platform mobile development with a native user experience.
 
-- **Manutenção Simplificada:** Com um código bem estruturado e modular, o Projeto é facilmente escalável e sujeito a manutenção contínua, permitindo adições futuras de recursos e atualizações de segurança.
+- **Secure Local Storage:** Utilizing the powerful `shared_preferences` or `prefs` package, the app ensures secure and local storage of contacts, keeping user data protected and accessible offline.
 
-#### Documentação Externa:
+- **Simplified Maintenance:** With well-structured and modular code, the Project is easily scalable and subject to continuous maintenance, allowing for future feature additions and security updates.
 
-- Para saber mais sobre o uso do pacote `shared_preferences` ou `prefs`, consulte a documentação em [shared_preferences](https://pub.dev/packages/shared_preferences) ou [prefs](https://pub.dev/packages/prefs).
+#### External Documentation:
 
-## Como Executar
+- To learn more about using the `shared_preferences` or `prefs` package, refer to the documentation at [shared_preferences](https://pub.dev/packages/shared_preferences) or [prefs](https://pub.dev/packages/prefs).
 
-Para experimentar o Projeto, siga estas instruções:
+## How to Run
 
-1. **Instalação do Flutter:** Certifique-se de ter o Flutter instalado em seu ambiente de desenvolvimento. Se não, siga as instruções em [flutter.dev](https://flutter.dev/docs/get-started/install).
-  
-2. **Clone do Repositório:** Clone este repositório em sua máquina local usando Git.
-  
-3. **Execução do Projeto:** Navegue até o diretório do projeto e execute o comando `flutter run` no terminal para iniciar o aplicativo em seu dispositivo ou emulador.
-## Aplicativos
+To try out the Project, follow these instructions:
+
+1. **Flutter Installation:** Make sure you have Flutter installed in your development environment. If not, follow the instructions at [flutter.dev](https://flutter.dev/docs/get-started/install).
+
+2. **Clone the Repository:** Clone this repository to your local machine using Git.
+
+3. **Running the Project:** Navigate to the project directory and run the command `flutter run` in the terminal to start the app on your device or emulator.
+
+## Applications
 
 ### App 1 - First App
 
-O App 1 é o primeiro aplicativo desenvolvido neste projeto. Ele é uma aplicação básica que demonstra conceitos iniciais de Flutter.
+App 1 is the first application developed in this project. It is a basic application demonstrating initial Flutter concepts.
 
-#### Diretório:
+#### Directory:
 ```
 app_1/app1
 ```
 
-#### Funcionalidades:
-- Interface simples
-- Demonstração de widgets básicos do Flutter
+#### Features:
+- Simple interface
+- Demonstration of basic Flutter widgets
 
 ### App 2 - Button
 
-O App 2 é um aplicativo simples que demonstra o uso de botões em Flutter.
+App 2 is a simple application demonstrating the usage of buttons in Flutter.
 
-#### Diretório:
+#### Directory:
 ```
 app_2/apk_2
 ```
 
-#### Funcionalidades:
-- Demonstração de vários tipos de botões
-- Navegação entre telas
+#### Features:
+- Demonstration of various types of buttons
+- Navigation between screens
 
 ### App 3 - Colors
 
-O App 3 é um aplicativo mais complexo que combina várias funcionalidades do Flutter em uma única aplicação.
+App 3 is a more complex application that combines various Flutter functionalities into a single application.
 
-#### Diretório:
+#### Directory:
 ```
 app_3/apk_3
 ```
 
-#### Funcionalidades:
-- Interface mais elaborada
-- Utilização de listas e itens interativos
-- Gerenciamento de estado avançado
+#### Features:
+- More elaborate interface
+- Use of lists and interactive items
+- Advanced state management
 
-## Contribuindo
+## Contributing
 
-Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull request. 
+If you would like to contribute to this project, feel free to open an issue or submit a pull request.
 
 ---
