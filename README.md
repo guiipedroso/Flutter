@@ -1,10 +1,6 @@
-# Projeto Flutter
+# Projeto - Gerenciador de Contatos
 
-Este repositório contém três aplicativos e um projeto principal em Flutter.
-
-## Projeto 1 - Gerenciador de Contatos
-
-O Projeto 1 é um aplicativo de gerenciamento de contatos desenvolvido em Flutter.
+O Projeto é uma solução completa de gerenciamento de contatos desenvolvida em Flutter, uma poderosa estrutura de desenvolvimento de aplicativos multiplataforma. Este aplicativo oferece uma experiência intuitiva e eficiente para que os usuários possam organizar e manter seus contatos de forma simples e acessível.
 
 #### Funcionalidades:
 
