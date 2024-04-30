@@ -2,50 +2,6 @@
 
 Este repositório contém três aplicativos e um projeto principal em Flutter.
 
-## Aplicativos
-
-### App 1 - First App
-
-O App 1 é o primeiro aplicativo desenvolvido neste projeto. Ele é uma aplicação básica que demonstra conceitos iniciais de Flutter.
-
-#### Diretório:
-```
-app_1/app1
-```
-
-#### Funcionalidades:
-- Interface simples
-- Demonstração de widgets básicos do Flutter
-
-### App 2 - Button
-
-O App 2 é um aplicativo simples que demonstra o uso de botões em Flutter.
-
-#### Diretório:
-```
-app_2/apk_2
-```
-
-#### Funcionalidades:
-- Demonstração de vários tipos de botões
-- Navegação entre telas
-
-### App 3 - Colors
-
-O App 3 é um aplicativo mais complexo que combina várias funcionalidades do Flutter em uma única aplicação.
-
-#### Diretório:
-```
-app_3/apk_3
-```
-
-#### Funcionalidades:
-- Interface mais elaborada
-- Utilização de listas e itens interativos
-- Gerenciamento de estado avançado
-
-Entendi, então o Projeto 1 é um aplicativo desenvolvido em Flutter que segue as seguintes especificações:
-
 ## Projeto 1 - Gerenciador de Contatos
 
 O Projeto 1 é um aplicativo de gerenciamento de contatos desenvolvido em Flutter.
@@ -88,6 +44,48 @@ Para executar o Projeto 1, siga as instruções abaixo:
 2. Clone este repositório em sua máquina local.
 3. Navegue até o diretório do projeto.
 4. Execute o comando `flutter run` no terminal.
+
+## Aplicativos
+
+### App 1 - First App
+
+O App 1 é o primeiro aplicativo desenvolvido neste projeto. Ele é uma aplicação básica que demonstra conceitos iniciais de Flutter.
+
+#### Diretório:
+```
+app_1/app1
+```
+
+#### Funcionalidades:
+- Interface simples
+- Demonstração de widgets básicos do Flutter
+
+### App 2 - Button
+
+O App 2 é um aplicativo simples que demonstra o uso de botões em Flutter.
+
+#### Diretório:
+```
+app_2/apk_2
+```
+
+#### Funcionalidades:
+- Demonstração de vários tipos de botões
+- Navegação entre telas
+
+### App 3 - Colors
+
+O App 3 é um aplicativo mais complexo que combina várias funcionalidades do Flutter em uma única aplicação.
+
+#### Diretório:
+```
+app_3/apk_3
+```
+
+#### Funcionalidades:
+- Interface mais elaborada
+- Utilização de listas e itens interativos
+- Gerenciamento de estado avançado
 
 ## Contribuindo
 
