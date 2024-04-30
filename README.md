@@ -90,5 +90,3 @@ app_3/apk_3
 ## Contributing
 
 If you would like to contribute to this project, feel free to open an issue or submit a pull request.
-
----
